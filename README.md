@@ -1,6 +1,6 @@
 <img align="left" width="100%" height="auto" src="https://www.saltairecollection.org/wp-content/uploads/World.gif" alt="error">
 <h1 align="center">Hi :wave: ,I am Dibyanshu Srivastav </h1>
-<h3 align="center"> enthusiastic aspiring web developer from India</h3>
+<h3 align="center"> A enthusiastic aspiring web developer from India</h3>
 
 <img align="center" width="auto" height="250px" src="https://www.proofhub.com/wp-content/uploads/2020/08/Web-Developer.gif" alt="error">
 
