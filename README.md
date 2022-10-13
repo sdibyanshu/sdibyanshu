@@ -1,11 +1,13 @@
 <h1 align="center">Hi :wave: ,I am Dibyanshu Srivastav </h1>
-<h3 align="center">A enthusiastic aspiring web developer from India</h3>
+<h3 align="center"> enthusiastic aspiring web developer from India</h3>
 
-<img align="right" width="400px" src="https://www.proofhub.com/wp-content/uploads/2020/08/Web-Developer.gif" alt="error">
+<img align="right" width="50%" height="300px" src="https://www.proofhub.com/wp-content/uploads/2020/08/Web-Developer.gif" alt="error">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdibyanshu&label=Profile%20views&color=0e75b6&style=flat" alt="sdibyanshu" /> </p>
 
-- 🌱 I’m currently learning **React JS ,Chakra UI**
+- 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
+
+- 💬 Ask me about **React ,redux . JavaScript**
 
 - 📫 How to reach me **dibyanshu4430@gmail.com**
 
