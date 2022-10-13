@@ -2,7 +2,7 @@
 <h1 align="center">Hi :wave: ,I am Dibyanshu Srivastav </h1>
 <h3 align="center"> enthusiastic aspiring web developer from India</h3>
 
-<img align="right" width="55%" height="300px" src="https://www.proofhub.com/wp-content/uploads/2020/08/Web-Developer.gif" alt="error">
+<img align="right" width="40%" height="250px" src="https://www.proofhub.com/wp-content/uploads/2020/08/Web-Developer.gif" alt="error">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdibyanshu&label=Profile%20views&color=0e75b6&style=flat" alt="sdibyanshu" /> </p>
 
