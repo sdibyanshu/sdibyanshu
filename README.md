@@ -1,7 +1,7 @@
 
 
 <div align="center" >
-  <img src="https://www.saltairecollection.org/wp-content/uploads/World.gif" width="80%" , height="70%"/>
+  <img src="https://www.saltairecollection.org/wp-content/uploads/World.gif" width="90%" , height="70%"/>
 </div>
 
 <div align="center" >
