@@ -52,7 +52,7 @@
   
 <a href="https://www.linkedin.com/in/dibyanshu-srivastav-290b7718b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prem-sardhan-2067bb177" height="30" width="40" /></a>
   
-<a href="https://codesandbox.com/prem-sardhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="prem-sardhan" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/dibyanshu4430" target="blank"><img align="center" src="https://raw.githubusercontent.com/sdibyanshu/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="Dibyanshu-Srivastav" height="30" width="40" /></a>
 </p>
 
 <br />
@@ -119,19 +119,19 @@
 <h2 align="center">📊 My Github Stats</h2>
    <br/>   
     <p align="center">      
-  <a href="https://github.com/sdibyanshu/github-readme-stats"><img alt="Dibyanshu Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravaniMishra&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/sdibyanshu/github-readme-stats"><img alt="Dibyanshu Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdibyanshu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       </p>      
      <br/>
    <p align="center">
-    <a href="https://github.com/prem-sardhan/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ShravaniMishra streak" src="https://github-readme-streak-stats.herokuapp.com/?user=prem-sardhan&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+    <a href="https://github.com/sdibyanshu/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sdibyanshu streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sdibyanshu&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>                                                                                                                                              
 
   <br/>
   <br/>
      <p align="center">                                                                                                 
-    <a href="https://github.com/prem-sardhan/github-readme-stats"><img alt="prem-sardhan Github Stats" src="https://github-readme-stats.vercel.app/api?username=prem-sardhan&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="prem-sardhan" /></a>
+    <a href="https://github.com/sdibyanshu/github-readme-stats"><img alt="sdibyanshu Github Stats" src="https://github-readme-stats.vercel.app/api?username=sdibyanshu&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="Dibyanshu" /></a>
     </p>                                                                 
  <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
 
@@ -139,7 +139,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/prem-sardhan/github-readme-activity-graph"><img alt="prem-sardhan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prem-sardhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/sdibyanshu/github-readme-activity-graph"><img alt="sdibyanshu Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sdibyanshu&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
