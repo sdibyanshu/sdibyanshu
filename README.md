@@ -1,8 +1,10 @@
-[![MasterHead](https://www.saltairecollection.org/wp-content/uploads/World.gif)](https://sdibyanshu.io)
 
 
+<div align="center" >
+  <img src="https://www.saltairecollection.org/wp-content/uploads/World.gif" width="80%" , height="70%"/>
+</div>
 
-<div align="center">
+<div align="center" >
   <img src="https://www.proofhub.com/wp-content/uploads/2020/08/Web-Developer.gif" width="40%"/>
 </div>
 
