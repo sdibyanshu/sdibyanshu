@@ -31,13 +31,13 @@
 
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1oNukprJ7cxCg0ARXGol4B7lS9o08zRyq/view?usp=sharing)
 
-- 💻 Know more about me [Portfolio](https://prem-sardhan.github.io/)
+- 💻 Know more about me [Portfolio](https://sdibyanshu.github.io/)
 
-- 💻 All of my projects are available at *[My Github Repositories](https://github.com/prem-sardhan?tab=repositories)*
+- 💻 All of my projects are available at *[My Github Repositories](https://github.com/sdibyanshu?tab=repositories)*
 
 - 💬 Ask me about HTML, CSS, JavaScript, React & DSA
 
-- 📫 How to reach me premkumar2303@gmail.com
+- 📫 How to reach me dibyanshu4430@gmail.com
 
 - ⚡ Fun fact Elephants can’t jump
 
