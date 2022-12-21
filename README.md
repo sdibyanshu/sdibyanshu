@@ -1,11 +1,11 @@
 
 
 <div align="center" >
-  <img src="https://www.saltairecollection.org/wp-content/uploads/World.gif" width="90%" , height="70%"/>
+  <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="90%" , height="70%"/>
 </div>
 
 <div align="center" >
-  <img src="https://www.proofhub.com/wp-content/uploads/2020/08/Web-Developer.gif" width="40%"/>
+  <img src="https://www.saltairecollection.org/wp-content/uploads/World.gif" width="40%"/>
 </div>
 
 
