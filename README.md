@@ -1,4 +1,5 @@
 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Dibyanshu Srivastav <img src="https://www.freepngimg.com/download/emoji/73728-emoticon-smiley-peace-emojis-laughter-emoji.png" width="32"/></h1>
 
 <div align="center" >
   <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="90%" , height="70%"/>
@@ -8,9 +9,6 @@
   <img src="https://www.saltairecollection.org/wp-content/uploads/World.gif" width="40%"/>
 </div>
 
-
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Dibyanshu Srivastav <img src="https://www.freepngimg.com/download/emoji/73728-emoticon-smiley-peace-emojis-laughter-emoji.png" width="32"/></h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prem-sardhan&label=Profile%20views&color=0e75b6&style=flat" alt="Dibyanshu" /> </p>
 
