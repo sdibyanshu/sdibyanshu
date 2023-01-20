@@ -120,7 +120,7 @@
 <h2 align="center">📊 My Github Stats</h2>
    <br/>   
     <p align="center">      
-       <a href="https://github.com/sdibyanshu/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdibyanshu&show_icons=true&count_private=true&theme=radical" alt="" /></a>
+
       </p>      
      <br/>
    <p align="center">
