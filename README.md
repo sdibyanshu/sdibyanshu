@@ -117,9 +117,26 @@
 <hr />
 
 
-<h2 align="center">📊 My Github Stats</h2>
-   <br/>   
 
+
+  
+
+
+
+
+
+
+
+
+
+<h2 align="center">📊 My Github Stats</h2>
+    <br/>
+    <p align="center">      
+  <a href="https://github.com/sdibyanshu/github-readme-stats"><img alt="Dibyanshu Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdibyanshu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+      </p>      
+ 
+      
+   <br/>   
    <p align="center">
     <a href="https://github.com/sdibyanshu/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sdibyanshu streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sdibyanshu&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
@@ -127,6 +144,7 @@
 </p>                                                                                                                                              
 
   <br/>
+  
   <br/>
      <p align="center">                                                                                                 
     <a href="https://github.com/sdibyanshu/github-readme-stats"><img alt="sdibyanshu Github Stats" src="https://github-readme-stats.vercel.app/api?username=sdibyanshu&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="Dibyanshu" /></a>
