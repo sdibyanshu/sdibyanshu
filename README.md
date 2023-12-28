@@ -25,7 +25,7 @@
 
 ## 🙋‍♂ About Me
 
-- 🔭 I’m Full Stack Web Development
+- 🔭 I’m Full Stack Web Developer
 
 - 🌱 I’m currently learning Frontend and Backened
 
