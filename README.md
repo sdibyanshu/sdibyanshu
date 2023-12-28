@@ -27,8 +27,6 @@
 
 - 🔭 I’m Full Stack Web Developer
 
-- 🌱 I’m currently learning Frontend and Backened
-
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1oNukprJ7cxCg0ARXGol4B7lS9o08zRyq/view?usp=sharing)
 
 - 💻 Know more about me [Portfolio](https://sdibyanshu.github.io/)
