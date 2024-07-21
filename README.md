@@ -27,7 +27,7 @@
 
 - 🔭 I’m Full Stack Web Developer
 
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1oNukprJ7cxCg0ARXGol4B7lS9o08zRyq/view?usp=sharing)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/115LlYlEuzLpHW5dMnKGdXsuBYv4Jtuy8/view?usp=sharing)
 
 - 💻 Know more about me [Portfolio](https://sdibyanshu.github.io/)
 
