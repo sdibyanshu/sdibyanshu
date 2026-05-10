@@ -23,8 +23,7 @@
 - ⚡ Experienced in **high-performance APIs, microservices & high-traffic systems**
 - 🛒 Worked on **Jockey India (Page Industries)** & **Spykar Lifestyles**
 - 📈 Improved API performance by **25%** & handled **5K+ daily requests**
-- 📄 [Resume](https://drive.google.com/file/d/115LlYlEuzLpHW5dMnKGdXsuBYv4Jtuy8/view)
-- 🌐 [Portfolio](https://sdibyanshu.github.io/)
+- 🌐 [Portfolio](https://dibyanshusrivastavaportfolio.netlify.app/)
 - 📫 Reach me at **dibyanshu4430@gmail.com**
 
 ---
