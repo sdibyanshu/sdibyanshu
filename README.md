@@ -86,18 +86,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sdibyanshu&theme=react&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sdibyanshu&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sdibyanshu&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"/>
-</p>
+---
+
+## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdibyanshu&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sdibyanshu&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
